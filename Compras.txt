@@ -1,0 +1,10 @@
+COMESTIBLES:
+pan
+azúcar
+yerba
+sal
+fideos
+
+LIMPIEZA:
+detergente
+lavandina
