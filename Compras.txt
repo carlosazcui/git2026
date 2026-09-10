@@ -1,4 +1,5 @@
 COMESTIBLES:
+membrillo
 pan
 azúcar
 yerba
